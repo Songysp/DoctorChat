@@ -41,6 +41,8 @@ npx expo start
 ```
 * 백엔드
 
+[백앤드 깃허브 링크](https://github.com/Songysp/DoctorChat_BackEnd)
+
 ```bash
 # 깃 클론
 git clone https://github.com/Songysp/DoctorChat_BackEnd
